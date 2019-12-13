@@ -28,7 +28,7 @@ Running ' node bamazonCustomer.js` will first display all of the items available
 
 
 
-![gify3](screenShot/successOrder.gif)
+![gify3](screenshot/successOrder.gif)
 
 
 
@@ -37,7 +37,7 @@ Running ' node bamazonCustomer.js` will first display all of the items available
 
 - If not, the app will log the phrase Insufficient quantity!, and prevent the order from going through.
 
-![gif4](screenShot/Insufficient.gif)
+![gif4](screenshot/Insufficient.gif)
 
 
 
@@ -46,20 +46,20 @@ Running ' node bamazonCustomer.js` will first display all of the items available
 - If the user input a non-number or "0" in chose ID, it will be remaind you "Please enter a correctly number...", until you input a correctly number.
 
 
-![gify5](screenShot/checkId.gif)
+![gify5](screenshot/checkId.gif)
 
 
 - If the user input a non-number or "0" in chose quantity, it will be remaid you "Please enter a correctly number..." as well, until you input a correctly quantity number.
 
 
-![gify6](screenShot/checkQuantity.gif)
+![gify6](screenshot/checkQuantity.gif)
 
 
 - The app will then promt the user "Would you like to purchase anything else?"
 - If the user selects yes the app will log the phrase "Please select another order..." and the app will then prompt users with two messages again.
 - The database will be updated with the subtraction of the quanitity of the product chosen by the user.
 
-![gif7](screenShot/stockOrder.gif)
+![gif7](screenshot/stockOrder.gif)
 
 
 
@@ -71,7 +71,7 @@ Running ' node bamazonCustomer.js` will first display all of the items available
 
 -If the user choses no, the app will log the phrase "Thank you! See you next time!"
 
-![gif8](screenShot/no.gif)
+![gif8](screenshot/no.gif)
 
 
 
