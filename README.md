@@ -35,7 +35,7 @@ Running 'node bamazonCustomer.js' will first display all of the items available 
 
 
 
-- If not, the app will log the phrase Insufficient quantity!, and prevent the order from going through.
+- If not, the app will log the phrase 'Insufficient quantity!', and prevent the order from going through.
 
 ![gif4](screenshot/Insufficient.gif)
 
