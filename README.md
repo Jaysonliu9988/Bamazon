@@ -1,11 +1,11 @@
 # Bamazon
-Bamazon
+Bamazon CLI-App
 
 # Overview
 Bamazon is an Amazon-like storefront which utilizes MySQL and node.js. The app will take in orders from customers and deplete stock from the store's inventory.
 
 # Bamazon Customer View
-Running ' node bamazonCustomer.js` will first display all of the items available for sale. This will include the ids, names, departments, prices of products for sale and the stock quantity.
+Running 'node bamazonCustomer.js' will first display all of the items available for sale. This will include the ids, names, departments, prices of products for sale and the stock quantity.
 
 ![gify1](screenshot/preview.gif)
 
@@ -96,3 +96,7 @@ Running ' node bamazonCustomer.js` will first display all of the items available
 # Author
 
 Jayson Liu
+
+# DEMO
+
+https://jaysonliu9988.github.io/Bamazon/
